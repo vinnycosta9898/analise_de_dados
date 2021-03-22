@@ -17,3 +17,7 @@ Folium Instalação:
 
     $ pip install folium
     
+> Ou pelo Prompt de Comando Anaconda via conda:
+
+    $ conda install folium -c conda-forge
+    
