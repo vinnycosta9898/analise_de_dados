@@ -10,7 +10,7 @@ Para a Analise de Dados utilizaremos as seguintes bibliotecas:
 - Folium
 
 Instalação:
-> Para o uso das demais Bibliotecas recomendo a instalação do gerenciador de pacotes Anaconda 
+> Para o uso das Bibliotecas citadas acima recomendo a instalação do gerenciador de pacotes Anaconda 
 
 Folium Instalação:
 > Para o uso da Biblioteca Folium recomendo a instalação pelo prompt de comando via pip :
