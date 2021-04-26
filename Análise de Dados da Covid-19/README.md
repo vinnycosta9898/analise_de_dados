@@ -1,4 +1,4 @@
-# Análise de Dados sobre a pandemia de covid-19 nos Estados do Brasil
+# Análise de Dados sobre a pandemia de Covid-19 nos Estados do Brasil
 [![author](https://img.shields.io/badge/author-Vinny_Costa-red.svg)](https://www.linkedin.com/in/vinnycosta9898/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![MIT license](https://img.shields.io/badge/MIT_Licence-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vinnycosta9898)
 
 # Objetivo do Notebook:
@@ -7,8 +7,6 @@ Este notebook tem como objetivo extrair informações relevantes sobre a Pandemi
 Para a Análise desse DataSet foram adotados os seguintes critérios:
 
  - **0.1** - Média Móvel : Média de Casos e Óbitos nos ultimos 7 dias
-
-<hr> </hr>
  
  - **1** - Obter o número total de Casos e Mortes Confirmadas por covid-19 no Brasil 
 
@@ -19,6 +17,8 @@ Para a Análise desse DataSet foram adotados os seguintes critérios:
  - **4** - Calcular a  Média Móvel de Casos e Óbitos confirmados por Covid-19 
 
  - **5** - Mapear as regiões com os maiores indices de Casos e Óbitos confirmados 
+
+<hr> </hr>
 
 Para a Análise de Dados sobre a Pandemia de covid-19 no Brasil utilizaremos as seguintes bibliotecas:
 
