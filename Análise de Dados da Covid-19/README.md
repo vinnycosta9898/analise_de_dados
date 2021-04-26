@@ -6,9 +6,9 @@ Este notebook tem como objetivo extrair informações relevantes sobre a Pandemi
 
 Para a Análise desse DataSet foram adotados os seguintes critérios:
 
- - **0.1** - Média Móvel : Média de Casos e Óbitos nos ultimos 7 dias
+ - **0.1** - Média Móvel : Média de Casos e Óbitos confirmados nos ultimos 7 dias
  
- - **1** - Obter o número total de Casos e Mortes Confirmadas por covid-19 no Brasil 
+ - **1** - Obter o número total de Casos e Óbitos Confirmados por covid-19 no Brasil 
 
  - **2** - Obter o número total de Casos e Óbitos confirmados para cada Unidade Federativa Brasileira 
 
