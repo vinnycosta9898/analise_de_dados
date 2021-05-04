@@ -1,5 +1,5 @@
 # Análise de Dados sobre a pandemia de Covid-19 nos Estados do Brasil
-[![author](https://img.shields.io/badge/author-Vinny_Costa-red.svg)](https://www.linkedin.com/in/vinnycosta9898/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![MIT license](https://img.shields.io/badge/MIT_Licence-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vinnycosta9898)
+[![author](https://img.shields.io/badge/author-Vinny_Costa-red.svg)](https://www.linkedin.com/in/vinnycosta9898/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vinnycosta9898)
 
 # Objetivo do Notebook:
 Este notebook tem como objetivo extrair informações relevantes sobre a Pandemia de Covid-19 no Brasil, afim de possibilitar a melhor compreensão do atual período.
