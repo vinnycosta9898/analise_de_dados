@@ -1,2 +1,2 @@
-# Análise de Dados com Python 
-Repositório de Análise, Tratamento e Visualização de Dados com Python 
+# Data Analysis with Python 
+Repository the Analysis, Processing and View Data with Python 
