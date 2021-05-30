@@ -20,4 +20,17 @@ Folium Instalação:
 > Ou pelo Prompt de Comando Anaconda via conda:
 
     $ conda install folium -c conda-forge
+
+#### A partir dos dados contidos no DataSet conseguimos extrair informações relevantes sobre a pandemia de covid-19 no Brasil como:
+
+- [x] Total do numero de casos e óbitos confirmados por covid-19 no Brasil.
+
+- [x] Estados com os maiores indíces de casos e óbitos confirmados por covid-19
+
+- [x] Média Móvel da pandemia seguida de sua Evolução diária 
+
+- [x] Casos e Óbitos acumudados durante o Período
+
+- [x] Períodos de Estabilidade e Picos da Pandemia 
+
     
