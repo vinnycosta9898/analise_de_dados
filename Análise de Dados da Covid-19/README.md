@@ -14,17 +14,17 @@
 ---------------------------------------------------
 A partir dos dados contidos no DataSet irei extrair as seguintes informações:
 
--[x] Número Total de Casos confirmados por covid-19
+- [x] Número Total de Casos confirmados por covid-19
 
--[x] Número Total de Óbitos confirmados por covid-19
+- [x] Número Total de Óbitos confirmados por covid-19
 
--[x] Número de Casos confirmados para cada Unidade Federativa
+- [x] Número de Casos confirmados para cada Unidade Federativa
 
--[x] Número de Óbitos confirmados para cada unidade Federativa
+- [x] Número de Óbitos confirmados para cada unidade Federativa
 
--[x] Evolução Diária da Pandemia 
+- [x] Evolução Diária da Pandemia 
 
--[x] Média Móvel de 7 dias de Casos e Óbitos confirmados 
+- [x] Média Móvel de 7 dias de Casos e Óbitos confirmados 
  
 
 
