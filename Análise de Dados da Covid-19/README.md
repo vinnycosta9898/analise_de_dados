@@ -25,6 +25,8 @@ A partir dos dados contidos no DataSet irei extrair as seguintes informações:
 - [x] Evolução Diária da Pandemia 
 
 - [x] Média Móvel de 7 dias de Casos e Óbitos confirmados 
+
+- [x] Unidades Federativas com os maiores indíces de casos e óbitos confirmados na pandemia 
  
 
 
